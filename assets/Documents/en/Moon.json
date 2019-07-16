@@ -1,0 +1,37 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "3 476 km"
+        },
+        {
+            "title": "mass",
+            "value": "7.3 * 10<sup>22</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "384 100 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "27 Days"
+        },
+        {
+            "title": "Orbital period",
+            "value": "27 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "1.62 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-23 ℃"
+        }
+    ],
+    "Description": "The Moon is Earth's only natural satellite. Next to the Sun, the Moon exerts the greatest influence on the Earth itself, most notably through its effect on Earth's tides.",
+    "Mass": "The Moon is the largest natural satellite relative to the size of its primary - having 27% percent the diameter and 60% the density of the Earth. The Moon is larger than Pluto.",
+    "Origin": "The current prevailing hypothesis of the origin of the Moon is that it formed as a result of Mars-sized body colliding with the newly-formed proto-Earth. The Material ejected from this impact accreted to form the Moon 4.53 billion years ago.",
+    "Observation": "The Moon is the brightest object in the sky after the Sun, although its surface is actually dark, reflecting only 7 percent of the light falling on it. Moon's current orbital distance causes it to appear almost the same size in the sky as the Sun.",
+    "Moving away": "The Moon is slowly moving away from us, about 3.8cm per year. In other words, after tens of thousands of years, the Moon that our descendants see will be significantly smaller than ours."
+}

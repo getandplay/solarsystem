@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "474 km"
+        },
+        {
+            "title": "mass",
+            "value": "6.6 * 10<sup>19</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "130 394 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.41 Day"
+        },
+        {
+            "title": "Orbit period",
+            "value": "1.41 Day"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.08 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-187 ℃"
+        }
+    ],
+    "Description":"Miranda is the smallest and innermost of Uranus's five major moons. Despite its tiny size, Miranda has one of the strangest and most varied landscapes among extraterrestrial bodies.",
+    "Unusual":"Miranda is unlike any other body in the Solar System. It looks as if several pieces of rock were assembled randomly together. Its surface features include huge faults, canyons, cliffs, smooth plains, and curiously shaped rifts."
+}

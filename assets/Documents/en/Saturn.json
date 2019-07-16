@@ -1,0 +1,41 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "120 536 km"
+        },
+        {
+            "title": "mass",
+            "value": "5.7 * 10<sup>26</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "9.56 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "10H 39M"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "29 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "10.4 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-125 ℃"
+        }
+    ],
+    "Description":"Saturn is the sixth planet from the Sun and the second largest planet in the Solar System. Until the invention of modern telescope, Saturn was regarded as the outermost of the known planets.",
+    "Mass":"Although the second largest, Saturn is the least dense of all the planets in the Solar System, with only one-eighth the density of Earth(but nine times its diameter). It is also the only planet that is less dense than water.",
+    "Ring":"While the other gas giants also have ring systems, Saturn's is larger and more visible than any other in the Solar System. The rings are composed of water ice crystals and a smaller amount of rock, ranging in size from specks of dust to a few particles as large as mountains.",
+    "Moons":"Saturn has at least 150 moons and moonlets. The precise figure is uncertain as it is difficult to draw a distinction between a large ring particle and a tiny moon. Some of Saturn's moons act as shepherd moons to confine rings and prevent them from spreading out.",
+    "Observation":"Saturn appears to the naked eye in the night sky as a bright, yellowish point of light. Magnifying at least 30x resolves Saturn's rings.",
+    "Storm":{
+        "content":"The storm in Saturn's north pole.",
+        "image":"../../../assets/Documents/images/Rotatingsaturnhexagon.gif"
+    }
+}

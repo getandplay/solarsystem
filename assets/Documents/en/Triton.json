@@ -1,0 +1,35 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "2 707 km"
+        },
+        {
+            "title": "mass",
+            "value": "2.1 * 10<sup>22</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "355 771 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "5.9 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "5.9 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.78 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-235 ℃"
+        }
+    ],
+    "Description":"Triton is the largest moon of Neptune. It is also the only large moon in the Solar System that orbits in the opposite direction of its planet's rotation.",
+    "Cold":"Because of its high reflectivity, Triton is one of the coolest known objects in the Solar System.",
+    "Active":"Triton, Io and Venus are the only bodies in the Solar System besides Earth that are volcanically active at the present time."
+}

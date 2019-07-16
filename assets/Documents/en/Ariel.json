@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 159 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.35 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "191 625 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "2.5 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "2.5 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.27 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-213 ℃"
+        }
+    ],
+    "Description": "Ariel is the fourth largest of Uranus' moons. Ariel's surface shows signs of more recent geological activity and appears to be the youngest of all the moons of Uranus.",
+    "Surface": "The most striking feature of Ariel is the complex network of deep rift valleys crisscrossing the entire surface of the moon. These canyons are very similar to those on Mars."
+}

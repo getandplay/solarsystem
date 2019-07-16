@@ -1,0 +1,37 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "5 150 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.35 * 10<sup>23</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "1.24 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "16 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "16 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "1.35 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-179 ℃"
+        }
+    ],
+    "Description":"Titan is the largest moon of Saturn and the second largest moon in the Solar System. It is also the only natural satellite known to have a dense atmosphere and surface liquid.",
+    "Lakes":"There is a confirmed evidence of liquid lakes on Titan. These are the first liquid lakes seen anywhere in the Solar System besides Earth. The largest of these liquid methane lakes are larger than the Great Lakes on Earth",
+    "Atmosphere":"Titan unique atmosphere is largely composed of nitrogen and is a little denser than that of Earth, Titan is a \"super rotator\", which means its atmosphere rotates much faster than its surface.",
+    "Weather":"The climate, including wind and rain, creates surface features similar to those of Earth, such as dunes, rivers, lakes, seas and deltas. Titan also is dominated by seasonal weather patterns such as those on Earth.",
+    "life":"It is believed that Titan may resemble the Earth at an early stage in its development. Titan is also one of the prime candidates for the possibility of extraterrestrial life."
+}

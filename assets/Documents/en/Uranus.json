@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "51 118 km"
+        },
+        {
+            "title": "mass",
+            "value": "8.7 * 10<sup>25</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "19.2 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "17H 14M"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "84 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "8.7 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-210 ℃"
+        }
+    ],
+    "Description":"Uranus is the third largest of the Solar System's gas giants. It is the coldest planet in the Solar System.",
+    "Discovery":"Uranus was the first to be discovered by the use of the modern telescope, with its discovery credited to the English astronomer William Herschel in 1781.",
+    "Axial tilt":"Uranus has an axial tilt of 97.77°, meaning it effectively rolls around the Sun \"on its side\" compared to the other planets in the Solar System.",
+    "Observation":"Thile in Opposition (from the Sun, relative to the Earth), Uranus becomes visible to the naked-eyes. It would appear as a faint star under dark sky conditions."
+}

@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 169 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.17 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "267 015 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "4.1 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "4.1 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.2 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-200 ℃"
+        }
+    ],
+    "Description":"Umbriel is the third largest of Uranus' moons. It is also one of the darkest moons, reflecting only 16 percent of the light that strikes its surface.",
+    "Crater":"The most curious feature of Umbriel is a large, bright ring on the moon's dark surface. It is unclear what created the distinctive feature, although it may be frost deposits associated with an impact crater."
+}

@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "974 km"
+        },
+        {
+            "title": "mass",
+            "value": "9.4 * 10<sup>20</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "2.78 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "9H 04M"
+        },
+        {
+            "title": "Solar Orbit period",
+            "value": "4.6 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.27 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-106 ℃"
+        }
+    ],
+    "Description":"Ceres is the only dwarf planet located in the inner Solar System. Although it is the smallest dwarf planet, Ceres is still the largest object in the asteroid belt - it accounts for nearly 1/3 of the mass of the asteroid belt.",
+    "Discovery":"Ceres was discovered in the late 18th century and for 50 years it was classified as a planet. After the discovery of more bodies between Mars and Jupiter, it was demoted to the status of an asteroid. Since 2006, Ceres is classified as a dwarf planet.",
+    "Water":"Approximately 1/4 of Ceres' weight is considered to be water - which would give Ceres more fresh water than there is on Earth. It is also possible that Ceres has a layer of liquid water \"ocean \" in its interior.",
+    "Missions":"The NASA's Dawn spacecraft is to be the first to explore Ceres in February 2015. Due to the abundance of ice, water and minerals, Ceres could serve as a potential site for manned landings as well as a launching point for deep space missions."
+}

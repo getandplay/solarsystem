@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "508 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.08 * 10<sup>20</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "241 846 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.37 Day"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "1.37 Year"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.11 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-200 ℃"
+        }
+    ],
+    "Description":"Enceladus is the sixth-largest moon of Saturn. It has the highest albedo of any known object in the Solar System, reflecting almost 100% of the sunlight Enceladus receives.",
+    "Cryovolcanoes":"Cryovolcanoes at the south pole shoot large jects of water vapor into space. The whole of Saturn's E Ring is believed to have been made from these ice particles.",
+    "Water":"Enceladus seems to have liquid water under its icy surface. This could be caused by internal heat as a result of tidal forces from Saturn.",
+    "Life":"Because of the apparent liquid water near the surface, Enceladus may be one of the best spots for humans to look for extraterrestrial life."
+}

@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "15 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.48 * 10<sup>15</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "23 481"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.26 Day"
+        },
+        {
+            "title": "Orbit period",
+            "value": "1.26 Day"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.003 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-40 ℃"
+        }
+    ],
+    "Description":"Deimos is the outermost and smaller of the two natural satellites of the planet Mars. So small, that it could easily fit inside a medium-sized crater on Earth's moon.",
+    "Moving away":"Deimos is slowly moving farther away from Mars. It is believed that it will eventually leave the orbit of Mars."
+}

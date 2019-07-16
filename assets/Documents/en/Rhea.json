@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 528 km"
+        },
+        {
+            "title": "mass",
+            "value": "2.3 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "535 491 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "4.5 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "4.5 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.26 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-200 ℃"
+        }
+    ],
+    "Description":"Rhea is the second-largest moon of Saturn and the ninth largest moon in the Solar System. It is also one of the most heavily cratered satellites in the Solar System.",
+    "resurfaced":"Rhea's features could be divided into two regions: The brighter and more heavily cratered areas and the areas in the polar and equatorial region. This difference may indicate there was a major resurfacing event some time in Rhea's history."
+}

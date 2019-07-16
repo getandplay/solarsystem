@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "428 km"
+        },
+        {
+            "title": "mass",
+            "value": "4.4 * 10<sup>19</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "117 981 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.12 Day"
+        },
+        {
+            "title": "Orbit period",
+            "value": "1.12 Day"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.07 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-222 ℃"
+        }
+    ],
+    "Description":"Proteus is the second largest Neptunian moon, and Neptune's largest inner satellite. Despite its size Proteus is irregular in shape. Its extremely dark surface reflects only 6% of the sunlight that strikes it.",
+    "Origin":"Proteus is probably not an original body that formed with Neptune: it may have accreted later from the debris created when the largest Neptunian satellite Triton was captured."
+}

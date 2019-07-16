@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 492 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.81 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "3.62 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "79 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "79 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.22 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-163 ℃"
+        }
+    ],
+    "Description":"Iapetus is the third-largest natural satellites of Saturn and eleventh-largest in the Solar System. Its two-tone coloration make it one of the most unusual of Saturn's moons.",
+    "Contrast":"The terrain on Iapetus' leading hemisphere is one of the darkest in the Solar System. In contrast, the trailing hemisphere is very bright and the dividing line between the area remains extremely sharp."
+}

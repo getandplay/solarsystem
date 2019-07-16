@@ -1,0 +1,33 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 523 km"
+        },
+        {
+            "title": "mass",
+            "value": "3 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "585 718 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "13.5 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "13.5 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.35 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-200 ℃"
+        }
+    ],
+    "Description":"Oberon is the outermost of Uranus' moons and is the second largest. Oberon dark-red surface is more heavily cratered than that of any other major moon of Uranus."
+}

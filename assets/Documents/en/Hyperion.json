@@ -1,0 +1,35 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "236 km"
+        },
+        {
+            "title": "mass",
+            "value": "5.6 * 10<sup>18</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "1.53 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "21 Days"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "21 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.02 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-180 ℃"
+        }
+    ],
+    "Description":"Hyperion is the second largest irregular (nonspherical) body in the Solar System and the first non-round moon to be discovered. Hyperion is probably a remnant of a larger moon that was destroyed by a major impact.",
+    "Sponge":"Hyperion's surface is covered with deep, sharp-edged craters that give it the appearance of a giant sponge. The latest analyses also show that about 40 percent of the moon is empty space.",
+    "Chaotic":"Hyperion is the only moon in the Solar System known to rotate chaotically. Its axis of rotation wobbles so much that its orientation in space is unpredictable."
+}

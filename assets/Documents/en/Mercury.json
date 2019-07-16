@@ -1,0 +1,50 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "4 879 km"
+        },
+        {
+            "title": "mass",
+            "value": "3.3 * 10<sup>23</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "57.9 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "59 Days"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "88 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "3.7 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "167 ℃"
+        },
+        {
+            "title": "temperature - day",
+            "value": "473 ℃"
+        },
+        {
+            "title": "temperature - night",
+            "value": "-183 ℃"
+        }
+    ],
+    "Description":"Mercury is the innermost and smallest planet of the Solar System. Because it has almost no atmosphere to retain heat, Mercury's surface experiences the greatest temperature variation of all the planets.",
+    "Observation":"Mercury appears as a morning or evening star from Earth, but due to it's proximity to Sun, it is very hard to see. Still, Mecury can be observed at least twice a year: in spring at dusk and in autumn before dawn.",
+    "Mariner 10":{
+        "content":"The first spacecraft to visit Mercury was NASA's Mariner 10 (1974–1975). The spacecraft used the gravity of Venus to adjust its orbital velocity so that it could approach Mercury, making it both the first spacecraft to use this gravitational \"slingshot\" effect and the first NASA mission to visit multiple planets.",
+        "image":"../../../assets/Documents/images/Mariner_10.jpg"
+    },
+    "Water":{
+        "content":"Composite of the north pole of Mercury, where NASA confirmed the discovery of a large volume of water ice, in permanently dark craters that are found there.",
+        "image":"../../../assets/Documents/images/North_pole_of_Mercury.jpg"
+    }
+}

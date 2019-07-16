@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "405 km"
+        },
+        {
+            "title": "mass",
+            "value": "37 * 10<sup>19</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "188 579 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "22H 36M"
+        },
+        {
+            "title": "Orbit period",
+            "value": "22H 36M"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.06 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-209 ℃"
+        }
+    ],
+    "Description":"Mimas is a small Saturnian moon. It is also the smallest known astronomical body to have its shape rounded by its own gravity.",
+    "Scar":"Although the surface of Mimas is heavily cratered the most striking feature is a gigantic crater known as Herschel. It is almost 1/3 of the entire moon's diameter."
+}

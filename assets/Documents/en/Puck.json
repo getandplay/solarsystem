@@ -1,0 +1,33 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "162 km"
+        },
+        {
+            "title": "mass",
+            "value": "2.9 * 10<sup>18</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "86 327 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "18H 17M"
+        },
+        {
+            "title": "Orbit period",
+            "value": "18H 17M"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.03 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-209 ℃"
+        }
+    ],
+    "Description": "Puck the largest of the small inner moons of Uranus. Puck is approximately spherical in shape and has an extremely dark surface."
+}

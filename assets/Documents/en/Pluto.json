@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "2 374 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.31 * 10<sup>22</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "40.7 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "6.4 Days"
+        },
+        {
+            "title": "Solar Orbit period",
+            "value": "248 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.66 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-228 ℃"
+        }
+    ],
+    "Description":"Pluto is the largest object in the Kuiper belt. It is also the largest and the second most massive known dwarf planet in the Solar System.",
+    "Aial tilt":"Like Uranus, Pluto is lying on its \"side\", with an axial tilt of 120°, leading to extreme seasonal variations. At its solstices, one-fourth of the planet is in continuous daylight, and one-fourth in continuous darkness.",
+    "Moons":"Pluto has five known moons: Charon, Nix, Hydra, Kerberos, and Styx. Pluto and Charon are sometimes described as a binary system because the barycenter of their orbit does not lie within either body.",
+    "Discovery":"Discovered in 1930 by astronomer Clyde Tombaugh, Pluto was originally classified as the 9th planet from the Sun. However, the discovery of similar-sized objects within the Kuiper Belt, prompted the International Astronomical Union to re-classify Pluto in 2006 a dwarf planet."
+}

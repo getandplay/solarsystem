@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "3 122 km"
+        },
+        {
+            "title": "mass",
+            "value": "4.8 * 10<sup>22</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "671 143 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "3.6 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "3.6 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "1.31 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-171 ℃"
+        }],
+        "Description":"Europa is the smallest of Jupiter's four Galilean satellites, but still the sixth-largest moon in the Solar System. Europa may represent the closest place to Earth where scientists could find still-existing life outside of our planet.",
+        "Ocean":"A vast ocean is theoretical to exist below Europa's icy crust. Though Europa is far from the Sun, strong gravitational tides caused by Jupiter's powerful pull, could create internal heat necessary for maintaining liquid water.",
+        "Life":"The recent discovery of water geysers and the detection of clay-like minerals(often associated with \"organic material\") suggests that a basic aquatic life may exist within Europa's subsurface ocean."
+}

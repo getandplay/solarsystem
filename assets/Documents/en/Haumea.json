@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 739 km"
+        },
+        {
+            "title": "mass",
+            "value": "3.4 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "44 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "3H 54M"
+        },
+        {
+            "title": "Solar Orbit period",
+            "value": "283 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.44 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-223 ℃"
+        }
+    ],
+    "Description":"Discovered in December 2004, Haumea is the third closest dwarf planet from the Sun and the fastest spinning known large object in the Solar System.",
+    "Shape":"Haumea's extreme elongation is probably caused by its rotation - so rapid, it turned Haumea into an ellipsoid and made it the least spherical of the dwarf planets.",
+    "Origin":"In the early Solar System, Haumea may have been much like Pluto, composed half of rock and half of water. Billions of years ago, a large object is theorized to collided with the body, knocking most of the surface ice away and imparting a rapid spin to the dwarf planet.",
+    "Moons":"Haumea has two moons: The larger, Hi'iaka, is only 1% as massive as Haumea, while the smaller, Namaka, weight only about a tenth as much. Both moons are thought to be composed of almost pure water-ice, which may have originally come from Haumea itself."
+}

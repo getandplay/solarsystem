@@ -1,0 +1,38 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "12 104 km"
+        },
+        {
+            "title": "mass",
+            "value": "4.9 * 10<sup>24</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "108 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "243 Days"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "225 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "8.9 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "462 ℃"
+        }
+    ],
+    "Description":"Although Venus has very similar size and interior structure as Earth, its volcanic surface and extremely hot and dense atmosphere makes it one of the most inhospitable places in the Solar System.",
+    "Atmosphere":"Thick clouds of sulfuric acid and dust reflect most of the Sun's light back to space, while carbon dioxide traps the Sun's heat inside the atmosphere, causing a runaway greenhouse effect. The atmospheric pressure on the surface of Venus is 92 times greater than on Earth.",
+    "Observation":{
+        "content":"Venus is one of the brightest objects in our night sky - second only to the Moon. It appears as either an evening or a morning star.",
+        "image":"../../../assets/Documents/images/Venus-pacific-levelled.jpg"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "3 643 km"
+        },
+        {
+            "title": "mass",
+            "value": "8.9 * 10<sup>22</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "421 801 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.77 Day"
+        },
+        {
+            "title": "Orbit period",
+            "value": "1.77 Day"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "1.8 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-152 ℃"
+        }],
+        "Description":"Io is the fourth-largest moon in the Solar System and with over 400 active volcanoes, Io is also the most volcanically active body in the Solar System. Volcanic plumes rise up to 300 KM(186 miles) above its surface.",
+        "Surface":"Io's volcanic plumes and lava flows cover the surface in yellow, red, white, black, and green compounds of sulfur. Io's surface is also dotted with more than 100 mountains, with some of them taller than Mount Everest.",
+        "Tidal forces":"Due to its varying distances from Jupiter, Io is subjected to tremendous tidal forces. These forces cause Io's surface to bulge up and down by as much as 100m. They also generate a huge amount of heat within IO, keeping much of its subsurface crust in liquid form.",
+        "Electric generator":"Io's orbit cuts across Jupiter's magnetic field lines, turning the moon into a powerful electric generator. The electric current of 3 million amperes takes path to Jupiter's surface, creating lightnings in its upper atmosphere.",
+        "Volcano":{
+            "content":"Five-image sequence of New Horizons images showing Io's volcano Tvashtar spewing material 330 km above its surface.",
+            "image":"../../../assets/Documents/images/Tvashtarvideo.gif"
+        }
+}

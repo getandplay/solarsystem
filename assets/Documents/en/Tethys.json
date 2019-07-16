@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 066 km"
+        },
+        {
+            "title": "mass",
+            "value": "6.2 * 10<sup>20</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "299 381 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.89 Day"
+        },
+        {
+            "title": "Orbit period",
+            "value": "1.89 Day"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.15 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-187 ℃"
+        }
+    ],
+    "Description":"Tethys is the fifth-largest moon of Saturn. Its low density and a very bright surface indicates that it is made of water ice with only a small fraction of rock.",
+    "Creator":"The western hemisphere dominates a huge impact crater, Odysseus, with nearly 2/5 the size of the entire moon. It's not known why this impact didn't shatter the moon but it is theorized Thethys may have been in a semi-liquid state at the time of the impact."
+}

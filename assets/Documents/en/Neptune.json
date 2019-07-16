@@ -1,0 +1,38 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "49 528 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.02 * 10<sup>26</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "30.1 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "16H 06M"
+        },
+        {
+            "title": "Solar orbit period",
+            "value": "165 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "11.2 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-200 ℃"
+        }
+    ],
+    "Description":"Neptune is the eight and officially farthest planet from the Sun. It is the smallest but also the densest of gas giants. Neptune has a surface gravity that is only surpassed by Jupiter.",
+    "Discovery":"Neptune was the first planet to be discovered purely on the basis of mathematical prediction rather than by direct observation. Since it's discovery in 1846, Neptune has completed only orbit of the Sun.",
+    "Great dark spot":{
+        "content":"In 1989, the Great Dark Spot, an anti-cyclonic storm system spanning 13,000 × 6,600 km, was discovered by NASA's Voyager 2 spacecraft. The storm resembled the Great Red Spot of Jupiter. Some five years later, on 2 November 1994, the Hubble Space Telescope did not see the Great Dark Spot on the planet. Instead, a new storm similar to the Great Dark Spot was found in Neptune's northern hemisphere.",
+        "image":"../../../assets/Documents/images/Neptune's_Great_Dark_Spot.jpg"
+    }
+}

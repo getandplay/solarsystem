@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "12 756 km"
+        },
+        {
+            "title": "mass",
+            "value": "6 * 10<sup>24</sup> kg"
+        },
+        {
+            "title": "mean dist.from sun",
+            "value": "1 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "23H 56M"
+        },
+        {
+            "title":"Solar orbit period",
+            "value":"1 Year"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "9.8 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "15 ℃"
+        }
+    ],
+    "description": "Our homeworld is the densest of the eight planets in the Solar System. It is also the largest of the four terrestrial planets.",
+    "surface": "About 71% of the Earth's surface is covered by salt water oceans, and the remaining 30% is taken up by the seven continental landmasses. Earth's outer surface is also divided into several rigid segments or tectonic plates, that migrate across the surface over periods of millions of years.",
+    "axial tilt": "Today, the Earth is tilted on its axis by 23.4°, producing seasonal variations in climate and weather across the surface of the planet during the course of a year.",
+    "Magnetic field": "The Earth's magnetic field is generated within the molten outer core region of the planet and extends outwards to form the magnetosphere: a barrier surrounding the Earth, deflecting particles of the solar wind and protecting the Earth from Sun's radiation."
+}

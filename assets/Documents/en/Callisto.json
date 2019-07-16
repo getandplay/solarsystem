@@ -1,0 +1,33 @@
+{
+        "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "4 821 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.08 * 10<sup>23</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "1.88 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "16.7 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "16.7 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "1.24 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-172 ℃"
+        }],
+        "Description":"Callisto is the outermost of the Galilean satellites and the third largest satellite in the Solar System. Callisto is also the most heavily cratered object in the Solar System.",
+        "Landscape":"Callisto has shown no signs of resurfacing since first impacts have molded its surface. Therefore, it has the oldest landscape in the Solar System, with a surface age of about 4 billion years."
+}

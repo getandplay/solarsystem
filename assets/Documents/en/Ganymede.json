@@ -1,0 +1,33 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "5 262 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.43 * 10<sup>23</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "1.07 M KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "7.2 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "7.2 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "1.43 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-163 ℃"
+        }],
+        "Description":"Ganymede is the largest moon in the Solar System, larger than Mercury, and only slightly smaller than Mars. If Ganymede orbited the sun instead of orbiting Jupiter, it would easily be classified as a planet.",
+        "Magnetosphere":"Ganymede is the only moon in the Solar System known to possess a magnetosphere."
+}

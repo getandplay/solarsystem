@@ -1,0 +1,35 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "27 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.07 * 10<sup>16</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "9 387 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "7H 39M"
+        },
+        {
+            "title": "Orbit period",
+            "value": "7H 39M"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.006 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-40 ℃"
+        }
+    ],
+    "Description":"Phobos is the larger and closer of the two natural satellites of Mars. It is a small, irregularly shaped object, closer to its primary than any other known planetary moon.",
+    "Proximity":"Phobos is so close that it orbits Mars faster than Mars rotates. As a result, from the surface of Mars it appears to rise and set twice each Martian day.",
+    "Collision":"Phobos is drawing closer to Mars and in 50 million years it will either collide with the planet or break up into a planetary ring."
+}

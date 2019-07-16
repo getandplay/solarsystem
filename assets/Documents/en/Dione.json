@@ -1,0 +1,34 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 124 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.1 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "383 447 KM"
+        },
+        {
+            "title": "Rotation period",
+            "value": "2.7 Days"
+        },
+        {
+            "title": "Orbit period",
+            "value": "2.7 Days"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.23 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-186 ℃"
+        }
+    ],
+    "Description":"Despite the fact that Dione is only a small Saturnian moon, it is still the 15th largest moon in the Solar System, and its mass is greater than the mass of all known smaller moons combined.",
+    "Rotated":"Heavily cratered areas on Dione are unexpectedly located on the trailing hemisphere, so it has been theorized that a more recent impact spun Dione around 180 degrees."
+}

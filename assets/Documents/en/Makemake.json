@@ -1,0 +1,31 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "1 430 km"
+        },
+        {
+            "title": "mass",
+            "value": "3 * 10<sup>21</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "45.6 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "7H 46M"
+        },
+        {
+            "title": "Solar Orbit period",
+            "value": "310 Years"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-240 ℃"
+        }
+    ],
+    "Description":"Discovered in March 2005, Makemake is the second furthest dwarf planet to the Sun. It is also the 3rd largest dwarf planet, just slightly smaller and dimmer than Pluto.",
+    "Composition":"Makemake's surface is covered with large amounts of almost pure methane ice, which makes the dwarf planet appear reddish-brown in color.",
+    "Lack of Data":"With no detected moons and the lack of variations in its brightness, it is difficult to determine Makemake's mass, density or rotation period."
+}

@@ -1,0 +1,36 @@
+{
+    "encyclopedia": [
+        {
+            "title": "equatorial diameter",
+            "value": "2 326 km"
+        },
+        {
+            "title": "mass",
+            "value": "1.66 * 10<sup>20</sup> kg"
+        },
+        {
+            "title": "mean dist.from planet",
+            "value": "72.3 AU"
+        },
+        {
+            "title": "Rotation period",
+            "value": "1.08 Day"
+        },
+        {
+            "title": "Solar Orbit period",
+            "value": "560 Years"
+        },
+        {
+            "title": "Surface gravity",
+            "value": "0.83 M/S<sup>2</sup>"
+        },
+        {
+            "title": "Surface temperature",
+            "value": "-230 ℃"
+        }
+    ],
+    "Description":"Discovered in January 2005, Eris is the furthest dwarf planet from the Sun. It is also the most massive and the second largest known dwarf planet in the Solar System.",
+    "Size":"As the 9th largest/most massive object known to directly orbit the Sun, Eris was briefly referred to as the 10th planet. Eris was officially classified as dwarf planet in August 2006.",
+    "Orbit":"Its highly eccentric orbit takes Eris up to over three times as far from the sun as Pluto. Apart from long-period comets, Eris and its moon are currently the most distant known natural objects in the Solar System.",
+    "Atmosphere":"Eris is often so far from the Sun that its atmosphere collapses and freezes on the surface in an icy glaze. As Eris moves closer to the Sun, it is expected that the surface will warm up and reveal a rocky surface."
+}
