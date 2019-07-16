@@ -43,7 +43,7 @@
     "Water":"There is strong evidence that the Martian atmosphere was once far denser than it is now, and that water once ran freely on its surface. There is also mounting evidence that much of this water remains locked away underground.",
     "Moons":{
         "content":"Mars has two small natural satellites, Phobos and Deimos, that orbit very close to the planet. These moons may be captured asteroids. It has been predicted that in about 50 million years, Phobos will either crash into Mars' surface or break up into a ring structure around the planet.",
-        "image":"../../../assets/Documents/images/Orbits_of_Phobos_and_Deimos.gif"
+        "image":"solarsystem/assets/Documents/images/Orbits_of_Phobos_and_Deimos.gif"
     },
     "Mission":"Mars is the focus of intense study, with two rovers (exploration rover Opportunity and science laboratory Curiosity) operating on the surface, while three international missions orbit the planet: NASA's Mars Odyssey and Mars Reconnaissance Orbiter and ESA's Mars Express.",
     "Observation":"Mars can easily be seen from Earth with the naked eye, as can its reddish coloring. Its apparent magnitude is surpassed by the Sun, the Moon, Venus and Jupiter - but it can briefly match Jupiter's brightness at certain points in its orbit."
