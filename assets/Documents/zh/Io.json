@@ -34,6 +34,6 @@
         "发电机":"Io的轨道穿过木星的磁场线，将它自己变成一个巨大的发电机。300万安培的电流通向木星的表面，在其高层大气中产生大量的闪电。",
         "火山":{
             "content":"新视野号的五张连续影像显示艾奥的特瓦史塔火山口喷出的物体高出表面达330公里。",
-            "image":"../../../assets/Documents/images/Tvashtarvideo.gif"
+            "image":"assets/Documents/images/Tvashtarvideo.gif"
         }
 }

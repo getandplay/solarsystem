@@ -41,10 +41,10 @@
     "观测":"水星一般出现在地球的早晨或晚上，但由于它距离太阳较近，所以很难被肉眼看到。尽管如此，每年依然有两个较好水星的观测时段，分别是春季的黄昏时刻和秋季的黎明之前。",
     "水手10号":{
         "content":"第一个访问水星的探测器是美国宇航局的水手10号（1974-1975）。该探测器利用金星的引力来调整其轨道速度，使其能够接近水星，并成为第一个使用这种引力“弹弓”效应的航天器，同时也是NASA历史上第一个访问多个行星的探测器。",
-        "image":"../../../assets/Documents/images/Mariner_10.jpg"
+        "image":"assets/Documents/images/Mariner_10.jpg"
     },
     "关于水":{
         "content":"NASA在水星北极的永久阴暗坑洞内，发现了隐藏着的大量水冰。",
-        "image":"../../../assets/Documents/images/North_pole_of_Mercury.jpg"
+        "image":"assets/Documents/images/North_pole_of_Mercury.jpg"
     }
 }

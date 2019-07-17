@@ -34,6 +34,6 @@
         "Electric generator":"Io's orbit cuts across Jupiter's magnetic field lines, turning the moon into a powerful electric generator. The electric current of 3 million amperes takes path to Jupiter's surface, creating lightnings in its upper atmosphere.",
         "Volcano":{
             "content":"Five-image sequence of New Horizons images showing Io's volcano Tvashtar spewing material 330 km above its surface.",
-            "image":"../../../assets/Documents/images/Tvashtarvideo.gif"
+            "image":"assets/Documents/images/Tvashtarvideo.gif"
         }
 }
