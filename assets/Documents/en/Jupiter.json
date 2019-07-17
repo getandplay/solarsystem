@@ -32,7 +32,7 @@
         "Star-like":"Jupiter is the planet most like the Sun in terms of its composition. Although Jupiter would still need to be about 75 times as massive to fuse hydrogen and become a star, it would only need to be 13 times as massive to burn deuterium and become a brown dwarf.",
         "Atmosphere":{
             "content":"Jupiter spins on its axis faster than any other planet. Because of this rotation, Jupiter's atmosphere is subject to high winds, which cause the atmosphere to form distinct bands of colour, like swirling vortices and gigantic anticyclonic storms.",
-            "image":"solarsystem/assets/Documents/images/jupiter.gif"
+            "image":"../../../assets/Documents/images/jupiter.gif"
         },
         "Moons":"Jupiter governs the largest number of moons of any planet, with the current official total being 79. The four largest are the Galilean moons: Io, Europa, Ganymede, and Callisto. Ganymede, the largest moon in the Solar System, has a diameter greater than that of the planet Mercury.",
         "Observation":"Jupiter is the fourth brightest object in our skies after the Sun, Moon and Venus. Because the orbit of Jupiter is outside the Earth's, the planet always appears nearly fully illuminated when viewed through Earth-based telescopes."

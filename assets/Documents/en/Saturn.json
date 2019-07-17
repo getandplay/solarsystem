@@ -36,6 +36,6 @@
     "Observation":"Saturn appears to the naked eye in the night sky as a bright, yellowish point of light. Magnifying at least 30x resolves Saturn's rings.",
     "Storm":{
         "content":"The storm in Saturn's north pole.",
-        "image":"solarsystem/assets/Documents/images/Rotatingsaturnhexagon.gif"
+        "image":"../../../assets/Documents/images/Rotatingsaturnhexagon.gif"
     }
 }

@@ -41,10 +41,10 @@
     "Observation":"Mercury appears as a morning or evening star from Earth, but due to it's proximity to Sun, it is very hard to see. Still, Mecury can be observed at least twice a year: in spring at dusk and in autumn before dawn.",
     "Mariner 10":{
         "content":"The first spacecraft to visit Mercury was NASA's Mariner 10 (1974–1975). The spacecraft used the gravity of Venus to adjust its orbital velocity so that it could approach Mercury, making it both the first spacecraft to use this gravitational \"slingshot\" effect and the first NASA mission to visit multiple planets.",
-        "image":"solarsystem/assets/Documents/images/Mariner_10.jpg"
+        "image":"../../../assets/Documents/images/Mariner_10.jpg"
     },
     "Water":{
         "content":"Composite of the north pole of Mercury, where NASA confirmed the discovery of a large volume of water ice, in permanently dark craters that are found there.",
-        "image":"solarsystem/assets/Documents/images/North_pole_of_Mercury.jpg"
+        "image":"../../../assets/Documents/images/North_pole_of_Mercury.jpg"
     }
 }

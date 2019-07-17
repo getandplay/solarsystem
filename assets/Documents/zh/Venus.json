@@ -33,6 +33,6 @@
     "大气":"由硫酸和尘埃组成的厚厚的云层将大部分接受的太阳光反射回太空中，与此同时二氧化碳则将太阳的热量捕获在大气层内，从而导致温室效应失控。同时，金星表面的大气压是地球上的92倍。",
     "观测":{
         "content":"金星是我们夜空中最亮的物体之一 - 它仅次于月球。它在傍晚或者清晨出现。",
-        "image":"solarsystem/assets/Documents/images/Venus-pacific-levelled.jpg"
+        "image":"../../../assets/Documents/images/Venus-pacific-levelled.jpg"
     }
 }
